@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+ <a href="#">
+    <img src="pythonBadge.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
+  
 <!--
 **Ma-rachl/Ma-rachl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
