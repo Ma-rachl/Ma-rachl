@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
- <a href="#">
-    <img src="pythonBadge.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
 <!--
 **Ma-rachl/Ma-rachl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
