@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
+
+<!--
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -17,7 +20,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
+-->
 
 <!--
 **Ma-rachl/Ma-rachl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
