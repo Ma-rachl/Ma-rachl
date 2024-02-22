@@ -1,5 +1,18 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b>Rachel</b>
+        </samp>
+</h3
 
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a <b>developer</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
 
 <p align="center">
