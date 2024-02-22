@@ -1,4 +1,5 @@
 <!-- ### Hi there 👋 -->
+<br/>
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b>Rachel</b>
@@ -12,8 +13,11 @@
     <br>
     <br>
   </samp>
-</p>
+</div>
 
+<br/>
+
+## I Use
 
 <p align="center">
 
