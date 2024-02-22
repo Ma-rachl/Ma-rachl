@@ -6,7 +6,7 @@
 </h3
 
 <h3 align="center">
-        <samp>&gt; 「 I am a <b>developer</b> 」
+ 「 I am a <b>developer</b> 」
 </h3
 
 <br/>
