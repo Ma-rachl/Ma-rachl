@@ -5,7 +5,7 @@
         </samp>
 </h3
 
-<p align="center"> 
+<div align="center"> 
   <samp>
     <br>
     「 I am a <b>developer</b> 」
