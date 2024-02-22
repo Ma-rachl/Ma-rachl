@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <br/>
 <h3 align="center">
-        <samp>&gt; 「 Hi , I am
+        <samp> 「 Hi , I am
                 <b>Rachel</b> 」
 
 <br/>
