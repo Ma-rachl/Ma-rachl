@@ -4,10 +4,10 @@
         <samp>&gt; Hey There!, I am
                 <b>Rachel</b>
 
-                  <br>
+        </samp>
+          <br>
     「 I am a <b>developer</b> 」
     <br>
-        </samp>
 </h3
 
 <h4 align="center"> 
