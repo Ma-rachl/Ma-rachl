@@ -1,13 +1,8 @@
 <!-- ### Hi there 👋 -->
 <br/>
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b>Rachel</b>
-</h3
-<br/>
-<h3 align="center">
- 「 I am a <b>developer</b> 」
-</h3
+        <samp>&gt; 「 Hi , I am
+                <b>Rachel</b> 」
 
 <br/>
 <br/>
