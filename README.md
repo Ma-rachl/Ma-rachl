@@ -3,14 +3,10 @@
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b>Rachel</b>
-
-        </samp>
 </h3
 
 <h3 align="center">
         <samp>&gt; 「 I am a <b>developer</b> 」
-
-        </samp>
 </h3
 
 <br/>
