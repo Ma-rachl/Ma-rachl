@@ -6,14 +6,14 @@
         </samp>
 </h3
 
-<div align="center"> 
+<h4 align="center"> 
   <samp>
     <br>
     「 I am a <b>developer</b> 」
     <br>
     <br>
   </samp>
-</div>
+</h4>
 
 <br/>
 
