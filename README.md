@@ -5,21 +5,22 @@
                 <b>Rachel</b>
 
         </samp>
-        <samp>
+</h3
+
+<h3 align="center">
+        <samp>&gt; 「 I am a <b>developer</b> 」
+
+        </samp>
+</h3
+
+<br/>
+
+
+<samp>
           <br>
     「 I am a <b>developer</b> 」
     <br>
     </samp>
-</h3
-
-<h4 align="center"> 
-  <samp>
-  
-    <br>
-  </samp>
-</h4>
-
-<br/>
 
 ## I Use
 
